@@ -1,0 +1,23 @@
+﻿/*
+测试方法：
+
+java Tiger ../test/Sum.java -codegen C
+
+java Tiger ../test/BinaryTree.java -codegen C
+
+会自动编译,运行,记录log
+
+a.out生成之后->./a.out 600
+可以设置heap size，注意是以字节为单位
+
+
+
+
+生成文件(a.c a.out gc_log)都在 tiger->bin目录下
+
+
+
+
+
+*/
+
